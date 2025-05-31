@@ -59,10 +59,3 @@ npm start
 ```
 
 ---
-
-## 📷 Screenshots
-
-
-
----
-
